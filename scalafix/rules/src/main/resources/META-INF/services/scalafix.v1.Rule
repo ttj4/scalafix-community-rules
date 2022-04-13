@@ -1,0 +1,13 @@
+fix.scala213.FixCollectionConverters
+fix.scala213.FixFutureConverters
+fix.scala213.FixUnit
+fix.scala213.HandleScalaTest
+fix.scala213.FixArrayDeep
+fix.scala213.FixPostfixSyntax
+fix.scala213.FixExecutionContextGlobal
+fix.scala213.FixExplicitRight
+fix.scala213.FixSymbolLiterals
+fix.scala213.FixFutureSuccessful
+fix.scala213.FixLowerCaseEl
+fix.scala213.FixMapValues
+fix.scala213.FixMockitoMatchers
