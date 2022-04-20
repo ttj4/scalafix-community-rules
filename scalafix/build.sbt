@@ -16,8 +16,7 @@ inThisBuild(
         url("https://ttj4.github.io")
       )
     ),
-    scalaVersion := V.scala212,
-    crossScalaVersions := List(V.scala212, V.scala213),
+    scalaVersion := V.scala213,
     semanticdbEnabled := true,
     semanticdbVersion := scalafixSemanticdb.revision,
     scalacOptions ++= List(
@@ -45,7 +44,6 @@ publish / skip := true
 
 lazy val rules = project.settings(
   libraryDependencies ++= Seq(
-    "ch.epfl.scala" %% "scalafix-core" % V.scalafixVersion,
     "ch.epfl.scala" %% "scalafix-cli" % V.scalafixVersion cross CrossVersion.full
   ),
   moduleName := "scalafix-community-rules"
