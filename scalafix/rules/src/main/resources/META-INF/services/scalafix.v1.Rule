@@ -11,3 +11,7 @@ fix.scala213.FixFutureSuccessful
 fix.scala213.FixLowerCaseEl
 fix.scala213.FixMapValues
 fix.scala213.FixMockitoMatchers
+
+fix.scala213.Collection213Upgrade
+fix.scala213.Collection213Experimental
+fix.scala213.Collection213Roughly
