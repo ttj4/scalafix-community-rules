@@ -19,6 +19,7 @@ inThisBuild(
     scalaVersion := V.scala213,
     semanticdbEnabled := true,
     semanticdbVersion := scalafixSemanticdb.revision,
+    semanticdbIncludeInJar := true,
     scalacOptions ++= List(
       "-Yrangepos",
       "-P:semanticdb:synthetics:on"

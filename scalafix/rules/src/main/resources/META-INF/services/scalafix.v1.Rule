@@ -15,3 +15,5 @@ fix.scala213.FixMockitoMatchers
 fix.scala213.Collection213Upgrade
 fix.scala213.Collection213Experimental
 fix.scala213.Collection213Roughly
+
+fix.scala213.FixScalaTest
