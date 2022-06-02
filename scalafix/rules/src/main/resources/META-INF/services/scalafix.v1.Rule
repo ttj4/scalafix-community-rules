@@ -16,3 +16,4 @@ fix.scala213.Collection213Experimental
 fix.scala213.Collection213Roughly
 fix.scala213.FixScalaTest
 fix.scala213.FixDurationIsFinite
+fix.scala213.FixSlickDriverJdbcProfile
